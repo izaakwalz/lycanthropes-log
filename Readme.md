@@ -1,9 +1,10 @@
 # Lycanthrope's Log Console app
-
-
 ## Task
 
 ### Scenario: A Lycanthrope's log
+
+### [Demo](https://replit.com/@izaakwalz/Lycanthropes-log-console-app?v=1)
+
 
 Build a console app that records the events of a warewolf.
 You will end up using this log to determine the activites
